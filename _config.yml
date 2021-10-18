@@ -95,6 +95,11 @@ _select_data:
     - Twitter
     - YouTube
     - RSS
+    - Github
+    - Gitbook
+    - Slack
+    - Notion
+    - GitBook
 
 _comments:
   map: Update the map location and display settings.
