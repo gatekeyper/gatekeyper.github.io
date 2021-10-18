@@ -1,12 +1,12 @@
 - links:
   - name: Pricing
-    link: /pricing/
+    link: /
   - name: Blog
-    link: /blog/
+    link: /
   - name: About
-    link: /about/
+    link: /
   - name: Contact
-    link: /contact/
+    link: /
 - links:
   - name: Login
     link: /
@@ -21,19 +21,19 @@
     link: /
     new_window: true
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
+  - name: Github
+    link: "https://github.com/osamhack2021/IoT_GateKeyPer_Keeper"
     new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/cloudcannon/
-    social_icon: Twitter
+    social_icon: Github
+  - name: Gitbook
+    link: "https://osam-gatekeyper.gitbook.io/gatekeyper/"
+    social_icon: Gitbook
     new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
-    social_icon: YouTube
+  - name: Notion
+    link: "https://muddy-allosaurus-08e.notion.site/Gatekeyper-402bd2fad2244c1cb129c479f8ef488a"
+    social_icon: Notion
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
+  - name: Slack
+    link: "https://join.slack.com/t/gatekeyper/shared_invite/zt-wm2bj0nn-6biusY3775occ~cl0T93IQ"
+    social_icon: Slack
+    new_window: true

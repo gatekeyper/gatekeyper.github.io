@@ -11,7 +11,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: IoT를 활용한 스마트 자물쇠 솔루션 Gatekeyper
 author:
   name:
   email:
