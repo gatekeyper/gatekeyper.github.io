@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+title: Gatekeyper
+url: "https://gatekeyper.github.io/"
+baseurl: "https://github.com/osamhack2021/IoT_GateKeyPer_Keeper"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Asia/Seoul
 
 collections:
   staff_members:
