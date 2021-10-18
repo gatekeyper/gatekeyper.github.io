@@ -1,4 +1,30 @@
 - links:
+  - name: Pricing
+    link: /
+    new_window: false
+  - name: Blog
+    link: /
+    new_window: false
+  - name: About
+    link: /
+    new_window: false
+  - name: Contact
+    link: /
+    new_window: false
+- links:
+  - name: Login
+    link: /
+    new_window: false
+  - name: Sign Up
+    link: /
+    new_window: false
+  - name: Docs
+    link: /
+    new_window: false
+  - name: Status
+    link: /
+    new_window: false
+- links:
   - name: Github
     link: "https://github.com/osamhack2021/IoT_GateKeyPer_Keeper"
     new_window: true
