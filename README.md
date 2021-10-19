@@ -4,6 +4,7 @@ Marketing site template for Jekyll. Browse through a [live demo](https://proud-a
 Increase the web presence of your brand with this configurable theme.
 
 ![Hydra template screenshot](images/_screenshot.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgatekeyper%2Fgatekeyper.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgatekeyper%2Fgatekeyper.github.io?ref=badge_shield)
 
 Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
@@ -76,3 +77,7 @@ Hydra is already optimised for adding, updating and removing pages, staff, advic
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgatekeyper%2Fgatekeyper.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgatekeyper%2Fgatekeyper.github.io?ref=badge_large)
